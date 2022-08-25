@@ -1,6 +1,4 @@
-# Project-IR
-Information Retrieval Project
-Overview:
+#Overview:
 This project covers some areas of information retrieval. Examining the functional components of information retrieval including document and query representation, indexing techniques, similarity and matching, retrieval models, evaluation techniques, implementation issues, query reformulation (relevance feedback), Space models and space reduction.
 
 Phase 1 StopList
@@ -24,11 +22,13 @@ Initialize and fill the weighted query list
 Rank the documents
 Phase 5 Evaluation
 Calculate Precision ,Recall ,and F-measure
-System Requirements:
+
+#System Requirements:
 Java 13, you can download it from https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html
 PDF Reader Library, you can download it from https://downloads.apache.org/pdfbox/2.0.24/
 Tesseract-OCR, you can download it from https://tesseract-ocr.github.io/tessdoc/Downloads.html
-Directory Setup:
+
+#Directory Setup:
 main path is "C:\Users\LENOVO\Desktop\IR"
 
 ~\data
@@ -45,3 +45,6 @@ contains all the .exe files of the search engine
 
 ~\packages\Tesseract-OCR\temp
 contain one text file "imageOutText.txt" that contain engine's result
+
+
+
